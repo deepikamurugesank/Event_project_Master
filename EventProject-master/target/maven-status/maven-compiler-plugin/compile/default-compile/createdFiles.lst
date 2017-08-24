@@ -1,0 +1,9 @@
+com\event\controller\EventController.class
+com\event\controller\HomeController.class
+com\event\service\EventServiceImp.class
+com\event\bean\Event.class
+com\event\service\EventService.class
+com\event\EventApplication.class
+com\event\bean\Agenda.class
+com\event\SwaggerConfig.class
+com\event\repository\EventRepository.class
