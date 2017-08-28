@@ -39,17 +39,7 @@ public class Event {
 		// TODO Auto-generated constructor stub
 	}
 
-	public Event(Long eId,int eEdition, String eFullDte, String eDate, String eMonth, String eLocation, Boolean eIsActive,List<Agenda> ag) 
-	{
-		super();
-		this.eEdition = eEdition;
-		this.eFullDte = eFullDte;
-		this.eDate = eDate;
-		this.eMonth = eMonth;
-		this.eLocation = eLocation;
-		this.eIsActive = eIsActive;
-		this.ag=ag;
-	}
+	
 
 	public Long geteId() {
 		return eId;
